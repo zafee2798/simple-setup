@@ -60,3 +60,6 @@ sudo ./cleanup.sh              # when you're done
 
 ## Project Page
 https://your-actual-assignment-page-url-here
+
+## Project Page
+https://github.com/zafee2798/simple-setup
