@@ -57,3 +57,6 @@ sudo ./setup.sh
 ./test_dashboard.sh 90        # 90-second load test
 sudo ./cleanup.sh              # when you're done
 ```
+
+## Project Page
+https://your-actual-assignment-page-url-here
