@@ -58,11 +58,6 @@ sudo ./setup.sh
 sudo ./cleanup.sh              # when you're done
 ```
 
-## Project Page
-https://your-actual-assignment-page-url-here
 
 ## Project Page
 https://github.com/zafee2798/simple-setup
-
-## Project Page
-http://206.81.9.66:19999/spaces/kenjohngonzaga-space/rooms/all-nodes/home?post_survey_submit=true#metrics_correlation=false&after=1784164433000&before=1784165524000&modal=alertDetailsModal&modalTab=&_o=nZDLasMwFET_ResOWA9Lcv-h7cLLUsSVdZUE_ABLCYTSf6_bLrpM4u2BGc7MpxiOtNZXmhgXGsWzmHg-h_5aKk9owlvoQ8_r5TRwgQzllyeof6hDOcfHQy88LesVRjwJZs3GqQhp2wamtQTPzsPlGHXjVcx-gGKpk44WWiUJ02WDmFRGbjmpjrVL2rzPXBNVCnTguYZxGWj8wDLHhdZ0mg84LtvMUCpVRuFaf9jfau84-6glqJNbfUoK3rcE46yVUTY6s91U91tg5897zr1T9IaT-PoG&modalParams=alertId%3Dad7e51ce-0415-43c1-b564-3adeeb14a462&force_play=false
