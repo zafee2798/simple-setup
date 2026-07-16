@@ -59,5 +59,6 @@ sudo ./cleanup.sh              # when you're done
 ```
 
 
+
 ## Project Page
-https://github.com/zafee2798/simple-setup
+https://roadmap.sh/projects/simple-monitoring-dashboard
